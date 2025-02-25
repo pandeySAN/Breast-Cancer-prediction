@@ -25,7 +25,7 @@ Version Control: Git & GitHub
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/breast-cancer-detection.git
+git clone https://github.com/pandeySAN/Breast-Cancer-prediction
 cd breast-cancer-detection
 2️⃣ Create a Virtual Environment (Optional but Recommended)
 
