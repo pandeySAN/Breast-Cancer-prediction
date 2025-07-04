@@ -80,9 +80,6 @@ Edit
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
-## 📜 License
-This project is open-source under the MIT License.
-
 ## 📬 Contact
 📧 Email: sancpan02@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/sanchit-pandey-4682b724a
